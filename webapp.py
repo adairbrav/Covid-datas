@@ -16,9 +16,45 @@ def render_Graph():
     
 @app.route('/About')
 def render_About():
-    return render_template('About.html')
+    states = get_state_options()
+    #print(states)
+    return render_template('About.html', state_options=states)    
+
+@app.route('/showFact')
+def render_fact():
+    states = get_state_options()
+    state = request.args.get('state')
+    county = county_most_under_18(state)
+    fact = "In " + state + ", the cases in this country is " + county + "."
+    return render_template('About.html', state_options=states, funFact=fact)
     
-    
+def get_state_options():
+    """Return the html code for the drop down menu.  Each option is a state abbreviation from the demographic data."""
+    with open('demographics.json') as demographics_data:
+        counties = json.load(demographics_data)
+    states=[]
+    for c in counties:
+        if c["State"] not in states:
+            states.append(c["State"])
+    options=""
+    for s in states:
+        options += Markup("<option value=\"" + s + "\">" + s + "</option>") #Use Markup so <, >, " are not escaped lt, gt, etc.
+    return options
+
+def county_most_under_18(state):
+    """Return the name of a county in the given state with the highest percent of under 18 year olds."""
+    with open('demographics.json') as demographics_data:
+        counties = json.load(demographics_data)
+    highest=0
+    county = ""
+    for c in counties:
+        if c["State"] == state:
+            if c["Age"]["Percent Under 18 Years"] > highest:
+                highest = c["Age"]["Percent Under 18 Years"]
+                county = c["County"]
+    return county
+
+
 
 def is_localhost():
     """ Determines if app is running on localhost or not

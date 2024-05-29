@@ -43,5 +43,16 @@ li a:hover {
 
 <h3> made by Adair  </h3>
 
+     <form action="/showFact">
+          <select name="state"> 
+            {{ state_options }}
+          </select>
+          <br><br>
+          <input type="submit" value="Get a fun fact!">
+        </form>
+        <div id="funFact">
+            <p>{{ funFact }}</p>
+        </div>
+
     </body>
 </html>

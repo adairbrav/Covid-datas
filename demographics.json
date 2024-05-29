@@ -1,0 +1,1853 @@
+[
+  {
+    "Ethnicities": {
+      "White Alone, not Hispanic or Latino": 75.6, 
+      "Two or More Races": 1.8, 
+      "Asian Alone": 1.1, 
+      "Native Hawaiian and Other Pacific Islander Alone": 0.1, 
+      "White Alone": 77.9, 
+      "Hispanic or Latino": 2.7, 
+      "Black Alone": 18.7, 
+      "American Indian and Alaska Native Alone": 0.5
+    }, 
+    "Age": {
+      "Percent Under 18 Years": 25.2, 
+      "Percent 65 and Older": 13.8, 
+      "Percent Under 5 Years": 6.0
+    }, 
+    "Miscellaneous": {
+      "Manufacturers Shipments": 0, 
+      "Foreign Born": 1.6, 
+      "Percent Female": 51.4, 
+      "Language Other than English at Home": 3.5, 
+      "Living in Same House +1 Years": 85.0, 
+      "Mean Travel Time to Work": 26.2, 
+      "Building Permits": 131, 
+      "Veterans": 5922, 
+      "Land Area": 594.44
+    }, 
+    "Sales": {
+      "Retail Sales": 5981, 
+      "Merchant Wholesaler Sales": 0, 
+      "Accommodation and Food Services Sales": 881, 
+      "Retail Sales per Capita": 12003
+    }, 
+    "County": "2,129.57 in 2021", 
+    "State": "U.S", 
+    "Income": {
+      "Median Houseold Income": 53682, 
+      "Per Capita Income": 24571, 
+      "Persons Below Poverty Level": 12.1
+    }, 
+    "Education": {
+      "Bachelor's Degree or Higher": 20.9, 
+      "High School or Higher": 85.6
+    }, 
+    "Employment": {
+      "Private Non-farm Establishments": 817, 
+      "Private Non-farm Employment Percent Change": 2.1, 
+      "Firms": {
+        "Total": 4067, 
+        "Hispanic-Owned": 0.7, 
+        "Native Hawaiian and Other Pacific Islander-Owned": 0.0, 
+        "American Indian-Owned": 0.0, 
+        "Black-Owned": 15.2, 
+        "Asian-Owned": 1.3, 
+        "Women-Owned": 31.7
+      }, 
+      "Nonemployer Establishments": 2947, 
+      "Private Non-farm Employment": 10120
+    }, 
+    "Housing": {
+      "Housing Units": 22751, 
+      "Units in Multi-Unit Structures": 8.3, 
+      "Median Value of Owner-Occupied Units": 136200, 
+      "Households": 20071, 
+      "Persons per Household": 2.71, 
+      "Homeownership Rate": 76.8
+    }, 
+    "Population": {
+      "2014 Population": 55395, 
+      "2010 Population": 54571, 
+      "Population per Square Mile": 91.8, 
+      "Population Percent Change": 1.5
+    }
+  }, 
+  {
+    "Ethnicities": {
+      "White Alone, not Hispanic or Latino": 83.0, 
+      "Two or More Races": 1.6, 
+      "Asian Alone": 0.9, 
+      "Native Hawaiian and Other Pacific Islander Alone": 0.1, 
+      "White Alone": 87.1, 
+      "Hispanic or Latino": 4.6, 
+      "Black Alone": 9.6, 
+      "American Indian and Alaska Native Alone": 0.7
+    }, 
+    "Age": {
+      "Percent Under 18 Years": 22.2, 
+      "Percent 65 and Older": 18.7, 
+      "Percent Under 5 Years": 5.6
+    }, 
+    "Miscellaneous": {
+      "Manufacturers Shipments": 14102, 
+      "Foreign Born": 3.6, 
+      "Percent Female": 51.2, 
+      "Language Other than English at Home": 5.5, 
+      "Living in Same House +1 Years": 82.1, 
+      "Mean Travel Time to Work": 25.9, 
+      "Building Permits": 1384, 
+      "Veterans": 19346, 
+      "Land Area": 1589.78
+    }, 
+    "Sales": {
+      "Retail Sales": 29664, 
+      "Merchant Wholesaler Sales": 0, 
+      "Accommodation and Food Services Sales": 4369, 
+      "Retail Sales per Capita": 17166
+    }, 
+    "County": "Baldwin County", 
+    "State": "U.S", 
+    "Income": {
+      "Median Houseold Income": 50221, 
+      "Per Capita Income": 26766, 
+      "Persons Below Poverty Level": 13.9
+    }, 
+    "Education": {
+      "Bachelor's Degree or Higher": 27.7, 
+      "High School or Higher": 89.1
+    }, 
+    "Employment": {
+      "Private Non-farm Establishments": 4871, 
+      "Private Non-farm Employment Percent Change": 3.7, 
+      "Firms": {
+        "Total": 19035, 
+        "Hispanic-Owned": 1.3, 
+        "Native Hawaiian and Other Pacific Islander-Owned": 0.0, 
+        "American Indian-Owned": 0.4, 
+        "Black-Owned": 2.7, 
+        "Asian-Owned": 1.0, 
+        "Women-Owned": 27.3
+      }, 
+      "Nonemployer Establishments": 16508, 
+      "Private Non-farm Employment": 54988
+    }, 
+    "Housing": {
+      "Housing Units": 107374, 
+      "Units in Multi-Unit Structures": 24.4, 
+      "Median Value of Owner-Occupied Units": 168600, 
+      "Households": 73283, 
+      "Persons per Household": 2.52, 
+      "Homeownership Rate": 72.6
+    }, 
+    "Population": {
+      "2014 Population": 200111, 
+      "2010 Population": 182265, 
+      "Population per Square Mile": 114.6, 
+      "Population Percent Change": 9.8
+    }
+  }, 
+  {
+    "Ethnicities": {
+      "White Alone, not Hispanic or Latino": 46.6, 
+      "Two or More Races": 0.9, 
+      "Asian Alone": 0.5, 
+      "Native Hawaiian and Other Pacific Islander Alone": 0.2, 
+      "White Alone": 50.2, 
+      "Hispanic or Latino": 4.5, 
+      "Black Alone": 47.6, 
+      "American Indian and Alaska Native Alone": 0.6
+    }, 
+    "Age": {
+      "Percent Under 18 Years": 21.2, 
+      "Percent 65 and Older": 16.5, 
+      "Percent Under 5 Years": 5.7
+    }, 
+    "Miscellaneous": {
+      "Manufacturers Shipments": 0, 
+      "Foreign Born": 2.9, 
+      "Percent Female": 46.6, 
+      "Language Other than English at Home": 5.0, 
+      "Living in Same House +1 Years": 84.8, 
+      "Mean Travel Time to Work": 24.6, 
+      "Building Permits": 8, 
+      "Veterans": 2120, 
+      "Land Area": 884.88
+    }, 
+    "Sales": {
+      "Retail Sales": 1883, 
+      "Merchant Wholesaler Sales": 0, 
+      "Accommodation and Food Services Sales": 0, 
+      "Retail Sales per Capita": 6334
+    }, 
+    "County": "Barbour County", 
+    "State": "U.S", 
+    "Income": {
+      "Median Houseold Income": 32911, 
+      "Per Capita Income": 16829, 
+      "Persons Below Poverty Level": 26.7
+    }, 
+    "Education": {
+      "Bachelor's Degree or Higher": 13.4, 
+      "High School or Higher": 73.7
+    }, 
+    "Employment": {
+      "Private Non-farm Establishments": 464, 
+      "Private Non-farm Employment Percent Change": -5.6, 
+      "Firms": {
+        "Total": 1667, 
+        "Hispanic-Owned": 0.0, 
+        "Native Hawaiian and Other Pacific Islander-Owned": 0.0, 
+        "American Indian-Owned": 0.0, 
+        "Black-Owned": 0.0, 
+        "Asian-Owned": 0.0, 
+        "Women-Owned": 27.0
+      }, 
+      "Nonemployer Establishments": 1546, 
+      "Private Non-farm Employment": 6611
+    }, 
+    "Housing": {
+      "Housing Units": 11799, 
+      "Units in Multi-Unit Structures": 10.6, 
+      "Median Value of Owner-Occupied Units": 89200, 
+      "Households": 9200, 
+      "Persons per Household": 2.66, 
+      "Homeownership Rate": 67.7
+    }, 
+    "Population": {
+      "2014 Population": 26887, 
+      "2010 Population": 27457, 
+      "Population per Square Mile": 31.0, 
+      "Population Percent Change": -2.1
+    }
+  }, 
+  {
+    "Ethnicities": {
+      "White Alone, not Hispanic or Latino": 74.5, 
+      "Two or More Races": 0.9, 
+      "Asian Alone": 0.2, 
+      "Native Hawaiian and Other Pacific Islander Alone": 0.1, 
+      "White Alone": 76.3, 
+      "Hispanic or Latino": 2.1, 
+      "Black Alone": 22.1, 
+      "American Indian and Alaska Native Alone": 0.4
+    }, 
+    "Age": {
+      "Percent Under 18 Years": 21.0, 
+      "Percent 65 and Older": 14.8, 
+      "Percent Under 5 Years": 5.3
+    }, 
+    "Miscellaneous": {
+      "Manufacturers Shipments": 0, 
+      "Foreign Born": 1.2, 
+      "Percent Female": 45.9, 
+      "Language Other than English at Home": 2.1, 
+      "Living in Same House +1 Years": 86.6, 
+      "Mean Travel Time to Work": 27.6, 
+      "Building Permits": 19, 
+      "Veterans": 1327, 
+      "Land Area": 622.58
+    }, 
+    "Sales": {
+      "Retail Sales": 1247, 
+      "Merchant Wholesaler Sales": 0, 
+      "Accommodation and Food Services Sales": 107, 
+      "Retail Sales per Capita": 5804
+    }, 
+    "County": "Bibb County", 
+    "State": "U.S", 
+    "Income": {
+      "Median Houseold Income": 36447, 
+      "Per Capita Income": 17427, 
+      "Persons Below Poverty Level": 18.1
+    }, 
+    "Education": {
+      "Bachelor's Degree or Higher": 12.1, 
+      "High School or Higher": 77.5
+    }, 
+    "Employment": {
+      "Private Non-farm Establishments": 275, 
+      "Private Non-farm Employment Percent Change": 7.5, 
+      "Firms": {
+        "Total": 1385, 
+        "Hispanic-Owned": 0.0, 
+        "Native Hawaiian and Other Pacific Islander-Owned": 0.0, 
+        "American Indian-Owned": 0.0, 
+        "Black-Owned": 14.9, 
+        "Asian-Owned": 0.0, 
+        "Women-Owned": 0.0
+      }, 
+      "Nonemployer Establishments": 1126, 
+      "Private Non-farm Employment": 3145
+    }, 
+    "Housing": {
+      "Housing Units": 8978, 
+      "Units in Multi-Unit Structures": 7.3, 
+      "Median Value of Owner-Occupied Units": 90500, 
+      "Households": 7091, 
+      "Persons per Household": 3.03, 
+      "Homeownership Rate": 79.0
+    }, 
+    "Population": {
+      "2014 Population": 22506, 
+      "2010 Population": 22915, 
+      "Population per Square Mile": 36.8, 
+      "Population Percent Change": -1.8
+    }
+  }, 
+  {
+    "Ethnicities": {
+      "White Alone, not Hispanic or Latino": 87.8, 
+      "Two or More Races": 1.2, 
+      "Asian Alone": 0.3, 
+      "Native Hawaiian and Other Pacific Islander Alone": 0.1, 
+      "White Alone": 96.0, 
+      "Hispanic or Latino": 8.7, 
+      "Black Alone": 1.8, 
+      "American Indian and Alaska Native Alone": 0.6
+    }, 
+    "Age": {
+      "Percent Under 18 Years": 23.6, 
+      "Percent 65 and Older": 17.0, 
+      "Percent Under 5 Years": 6.1
+    }, 
+    "Miscellaneous": {
+      "Manufacturers Shipments": 3415, 
+      "Foreign Born": 4.3, 
+      "Percent Female": 50.5, 
+      "Language Other than English at Home": 7.3, 
+      "Living in Same House +1 Years": 88.7, 
+      "Mean Travel Time to Work": 33.9, 
+      "Building Permits": 3, 
+      "Veterans": 4540, 
+      "Land Area": 644.78
+    }, 
+    "Sales": {
+      "Retail Sales": 3197, 
+      "Merchant Wholesaler Sales": 0, 
+      "Accommodation and Food Services Sales": 209, 
+      "Retail Sales per Capita": 5622
+    }, 
+    "County": "Blount County", 
+    "State": "U.S", 
+    "Income": {
+      "Median Houseold Income": 44145, 
+      "Per Capita Income": 20730, 
+      "Persons Below Poverty Level": 15.8
+    }, 
+    "Education": {
+      "Bachelor's Degree or Higher": 12.1, 
+      "High School or Higher": 77.0
+    }, 
+    "Employment": {
+      "Private Non-farm Establishments": 660, 
+      "Private Non-farm Employment Percent Change": 3.4, 
+      "Firms": {
+        "Total": 4458, 
+        "Hispanic-Owned": 0.0, 
+        "Native Hawaiian and Other Pacific Islander-Owned": 0.0, 
+        "American Indian-Owned": 0.0, 
+        "Black-Owned": 0.0, 
+        "Asian-Owned": 0.0, 
+        "Women-Owned": 23.2
+      }, 
+      "Nonemployer Establishments": 3563, 
+      "Private Non-farm Employment": 6798
+    }, 
+    "Housing": {
+      "Housing Units": 23826, 
+      "Units in Multi-Unit Structures": 4.5, 
+      "Median Value of Owner-Occupied Units": 117100, 
+      "Households": 21108, 
+      "Persons per Household": 2.7, 
+      "Homeownership Rate": 81.0
+    }, 
+    "Population": {
+      "2014 Population": 57719, 
+      "2010 Population": 57322, 
+      "Population per Square Mile": 88.9, 
+      "Population Percent Change": 0.7
+     }
+	},
+	{
+    "Ethnicities": {
+      "White Alone, not Hispanic or Latino": 75.6, 
+      "Two or More Races": 1.8, 
+      "Asian Alone": 1.1, 
+      "Native Hawaiian and Other Pacific Islander Alone": 0.1, 
+      "White Alone": 77.9, 
+      "Hispanic or Latino": 2.7, 
+      "Black Alone": 18.7, 
+      "American Indian and Alaska Native Alone": 0.5
+    }, 
+    "Age": {
+      "Percent Under 18 Years": 25.2, 
+      "Percent 65 and Older": 13.8, 
+      "Percent Under 5 Years": 6.0
+    }, 
+    "Miscellaneous": {
+      "Manufacturers Shipments": 0, 
+      "Foreign Born": 1.6, 
+      "Percent Female": 51.4, 
+      "Language Other than English at Home": 3.5, 
+      "Living in Same House +1 Years": 85.0, 
+      "Mean Travel Time to Work": 26.2, 
+      "Building Permits": 131, 
+      "Veterans": 5922, 
+      "Land Area": 594.44
+    }, 
+    "Sales": {
+      "Retail Sales": 5981, 
+      "Merchant Wholesaler Sales": 0, 
+      "Accommodation and Food Services Sales": 881, 
+      "Retail Sales per Capita": 12003
+    }, 
+    "County": "5,342,87 in 2021", 
+    "State": "France", 
+    "Income": {
+      "Median Houseold Income": 53682, 
+      "Per Capita Income": 24571, 
+      "Persons Below Poverty Level": 12.1
+    }, 
+    "Education": {
+      "Bachelor's Degree or Higher": 20.9, 
+      "High School or Higher": 85.6
+    }, 
+    "Employment": {
+      "Private Non-farm Establishments": 817, 
+      "Private Non-farm Employment Percent Change": 2.1, 
+      "Firms": {
+        "Total": 4067, 
+        "Hispanic-Owned": 0.7, 
+        "Native Hawaiian and Other Pacific Islander-Owned": 0.0, 
+        "American Indian-Owned": 0.0, 
+        "Black-Owned": 15.2, 
+        "Asian-Owned": 1.3, 
+        "Women-Owned": 31.7
+      }, 
+      "Nonemployer Establishments": 2947, 
+      "Private Non-farm Employment": 10120
+    }, 
+    "Housing": {
+      "Housing Units": 22751, 
+      "Units in Multi-Unit Structures": 8.3, 
+      "Median Value of Owner-Occupied Units": 136200, 
+      "Households": 20071, 
+      "Persons per Household": 2.71, 
+      "Homeownership Rate": 76.8
+    }, 
+    "Population": {
+      "2014 Population": 55395, 
+      "2010 Population": 54571, 
+      "Population per Square Mile": 91.8, 
+      "Population Percent Change": 1.5
+    }
+  }, 
+  {
+    "Ethnicities": {
+      "White Alone, not Hispanic or Latino": 83.0, 
+      "Two or More Races": 1.6, 
+      "Asian Alone": 0.9, 
+      "Native Hawaiian and Other Pacific Islander Alone": 0.1, 
+      "White Alone": 87.1, 
+      "Hispanic or Latino": 4.6, 
+      "Black Alone": 9.6, 
+      "American Indian and Alaska Native Alone": 0.7
+    }, 
+    "Age": {
+      "Percent Under 18 Years": 22.2, 
+      "Percent 65 and Older": 18.7, 
+      "Percent Under 5 Years": 5.6
+    }, 
+    "Miscellaneous": {
+      "Manufacturers Shipments": 14102, 
+      "Foreign Born": 3.6, 
+      "Percent Female": 51.2, 
+      "Language Other than English at Home": 5.5, 
+      "Living in Same House +1 Years": 82.1, 
+      "Mean Travel Time to Work": 25.9, 
+      "Building Permits": 1384, 
+      "Veterans": 19346, 
+      "Land Area": 1589.78
+    }, 
+    "Sales": {
+      "Retail Sales": 29664, 
+      "Merchant Wholesaler Sales": 0, 
+      "Accommodation and Food Services Sales": 4369, 
+      "Retail Sales per Capita": 17166
+    }, 
+    "County": "Bdfs County", 
+    "State": "France", 
+    "Income": {
+      "Median Houseold Income": 50221, 
+      "Per Capita Income": 26766, 
+      "Persons Below Poverty Level": 13.9
+    }, 
+    "Education": {
+      "Bachelor's Degree or Higher": 27.7, 
+      "High School or Higher": 89.1
+    }, 
+    "Employment": {
+      "Private Non-farm Establishments": 4871, 
+      "Private Non-farm Employment Percent Change": 3.7, 
+      "Firms": {
+        "Total": 19035, 
+        "Hispanic-Owned": 1.3, 
+        "Native Hawaiian and Other Pacific Islander-Owned": 0.0, 
+        "American Indian-Owned": 0.4, 
+        "Black-Owned": 2.7, 
+        "Asian-Owned": 1.0, 
+        "Women-Owned": 27.3
+      }, 
+      "Nonemployer Establishments": 16508, 
+      "Private Non-farm Employment": 54988
+    }, 
+    "Housing": {
+      "Housing Units": 107374, 
+      "Units in Multi-Unit Structures": 24.4, 
+      "Median Value of Owner-Occupied Units": 168600, 
+      "Households": 73283, 
+      "Persons per Household": 2.52, 
+      "Homeownership Rate": 72.6
+    }, 
+    "Population": {
+      "2014 Population": 200111, 
+      "2010 Population": 182265, 
+      "Population per Square Mile": 114.6, 
+      "Population Percent Change": 9.8
+    }
+  }, 
+  {
+    "Ethnicities": {
+      "White Alone, not Hispanic or Latino": 46.6, 
+      "Two or More Races": 0.9, 
+      "Asian Alone": 0.5, 
+      "Native Hawaiian and Other Pacific Islander Alone": 0.2, 
+      "White Alone": 50.2, 
+      "Hispanic or Latino": 4.5, 
+      "Black Alone": 47.6, 
+      "American Indian and Alaska Native Alone": 0.6
+    }, 
+    "Age": {
+      "Percent Under 18 Years": 21.2, 
+      "Percent 65 and Older": 16.5, 
+      "Percent Under 5 Years": 5.7
+    }, 
+    "Miscellaneous": {
+      "Manufacturers Shipments": 0, 
+      "Foreign Born": 2.9, 
+      "Percent Female": 46.6, 
+      "Language Other than English at Home": 5.0, 
+      "Living in Same House +1 Years": 84.8, 
+      "Mean Travel Time to Work": 24.6, 
+      "Building Permits": 8, 
+      "Veterans": 2120, 
+      "Land Area": 884.88
+    }, 
+    "Sales": {
+      "Retail Sales": 1883, 
+      "Merchant Wholesaler Sales": 0, 
+      "Accommodation and Food Services Sales": 0, 
+      "Retail Sales per Capita": 6334
+    }, 
+    "County": "bour County", 
+    "State": "France", 
+    "Income": {
+      "Median Houseold Income": 32911, 
+      "Per Capita Income": 16829, 
+      "Persons Below Poverty Level": 26.7
+    }, 
+    "Education": {
+      "Bachelor's Degree or Higher": 13.4, 
+      "High School or Higher": 73.7
+    }, 
+    "Employment": {
+      "Private Non-farm Establishments": 464, 
+      "Private Non-farm Employment Percent Change": -5.6, 
+      "Firms": {
+        "Total": 1667, 
+        "Hispanic-Owned": 0.0, 
+        "Native Hawaiian and Other Pacific Islander-Owned": 0.0, 
+        "American Indian-Owned": 0.0, 
+        "Black-Owned": 0.0, 
+        "Asian-Owned": 0.0, 
+        "Women-Owned": 27.0
+      }, 
+      "Nonemployer Establishments": 1546, 
+      "Private Non-farm Employment": 6611
+    }, 
+    "Housing": {
+      "Housing Units": 11799, 
+      "Units in Multi-Unit Structures": 10.6, 
+      "Median Value of Owner-Occupied Units": 89200, 
+      "Households": 9200, 
+      "Persons per Household": 2.66, 
+      "Homeownership Rate": 67.7
+    }, 
+    "Population": {
+      "2014 Population": 26887, 
+      "2010 Population": 27457, 
+      "Population per Square Mile": 31.0, 
+      "Population Percent Change": -2.1
+    }
+  }, 
+  {
+    "Ethnicities": {
+      "White Alone, not Hispanic or Latino": 74.5, 
+      "Two or More Races": 0.9, 
+      "Asian Alone": 0.2, 
+      "Native Hawaiian and Other Pacific Islander Alone": 0.1, 
+      "White Alone": 76.3, 
+      "Hispanic or Latino": 2.1, 
+      "Black Alone": 22.1, 
+      "American Indian and Alaska Native Alone": 0.4
+    }, 
+    "Age": {
+      "Percent Under 18 Years": 21.0, 
+      "Percent 65 and Older": 14.8, 
+      "Percent Under 5 Years": 5.3
+    }, 
+    "Miscellaneous": {
+      "Manufacturers Shipments": 0, 
+      "Foreign Born": 1.2, 
+      "Percent Female": 45.9, 
+      "Language Other than English at Home": 2.1, 
+      "Living in Same House +1 Years": 86.6, 
+      "Mean Travel Time to Work": 27.6, 
+      "Building Permits": 19, 
+      "Veterans": 1327, 
+      "Land Area": 622.58
+    }, 
+    "Sales": {
+      "Retail Sales": 1247, 
+      "Merchant Wholesaler Sales": 0, 
+      "Accommodation and Food Services Sales": 107, 
+      "Retail Sales per Capita": 5804
+    }, 
+    "County": "bb County", 
+    "State": "France", 
+    "Income": {
+      "Median Houseold Income": 36447, 
+      "Per Capita Income": 17427, 
+      "Persons Below Poverty Level": 18.1
+    }, 
+    "Education": {
+      "Bachelor's Degree or Higher": 12.1, 
+      "High School or Higher": 77.5
+    }, 
+    "Employment": {
+      "Private Non-farm Establishments": 275, 
+      "Private Non-farm Employment Percent Change": 7.5, 
+      "Firms": {
+        "Total": 1385, 
+        "Hispanic-Owned": 0.0, 
+        "Native Hawaiian and Other Pacific Islander-Owned": 0.0, 
+        "American Indian-Owned": 0.0, 
+        "Black-Owned": 14.9, 
+        "Asian-Owned": 0.0, 
+        "Women-Owned": 0.0
+      }, 
+      "Nonemployer Establishments": 1126, 
+      "Private Non-farm Employment": 3145
+    }, 
+    "Housing": {
+      "Housing Units": 8978, 
+      "Units in Multi-Unit Structures": 7.3, 
+      "Median Value of Owner-Occupied Units": 90500, 
+      "Households": 7091, 
+      "Persons per Household": 3.03, 
+      "Homeownership Rate": 79.0
+    }, 
+    "Population": {
+      "2014 Population": 22506, 
+      "2010 Population": 22915, 
+      "Population per Square Mile": 36.8, 
+      "Population Percent Change": -1.8
+    }
+  }, 
+  {
+    "Ethnicities": {
+      "White Alone, not Hispanic or Latino": 87.8, 
+      "Two or More Races": 1.2, 
+      "Asian Alone": 0.3, 
+      "Native Hawaiian and Other Pacific Islander Alone": 0.1, 
+      "White Alone": 96.0, 
+      "Hispanic or Latino": 8.7, 
+      "Black Alone": 1.8, 
+      "American Indian and Alaska Native Alone": 0.6
+    }, 
+    "Age": {
+      "Percent Under 18 Years": 23.6, 
+      "Percent 65 and Older": 17.0, 
+      "Percent Under 5 Years": 6.1
+    }, 
+    "Miscellaneous": {
+      "Manufacturers Shipments": 3415, 
+      "Foreign Born": 4.3, 
+      "Percent Female": 50.5, 
+      "Language Other than English at Home": 7.3, 
+      "Living in Same House +1 Years": 88.7, 
+      "Mean Travel Time to Work": 33.9, 
+      "Building Permits": 3, 
+      "Veterans": 4540, 
+      "Land Area": 644.78
+    }, 
+    "Sales": {
+      "Retail Sales": 3197, 
+      "Merchant Wholesaler Sales": 0, 
+      "Accommodation and Food Services Sales": 209, 
+      "Retail Sales per Capita": 5622
+    }, 
+    "County": "lount County", 
+    "State": "France", 
+    "Income": {
+      "Median Houseold Income": 44145, 
+      "Per Capita Income": 20730, 
+      "Persons Below Poverty Level": 15.8
+    }, 
+    "Education": {
+      "Bachelor's Degree or Higher": 12.1, 
+      "High School or Higher": 77.0
+    }, 
+    "Employment": {
+      "Private Non-farm Establishments": 660, 
+      "Private Non-farm Employment Percent Change": 3.4, 
+      "Firms": {
+        "Total": 4458, 
+        "Hispanic-Owned": 0.0, 
+        "Native Hawaiian and Other Pacific Islander-Owned": 0.0, 
+        "American Indian-Owned": 0.0, 
+        "Black-Owned": 0.0, 
+        "Asian-Owned": 0.0, 
+        "Women-Owned": 23.2
+      }, 
+      "Nonemployer Establishments": 3563, 
+      "Private Non-farm Employment": 6798
+    }, 
+    "Housing": {
+      "Housing Units": 23826, 
+      "Units in Multi-Unit Structures": 4.5, 
+      "Median Value of Owner-Occupied Units": 117100, 
+      "Households": 21108, 
+      "Persons per Household": 2.7, 
+      "Homeownership Rate": 81.0
+    }, 
+    "Population": {
+      "2014 Population": 57719, 
+      "2010 Population": 57322, 
+      "Population per Square Mile": 88.9, 
+      "Population Percent Change": 0.7
+     }
+	},
+	{
+    "Ethnicities": {
+      "White Alone, not Hispanic or Latino": 75.6, 
+      "Two or More Races": 1.8, 
+      "Asian Alone": 1.1, 
+      "Native Hawaiian and Other Pacific Islander Alone": 0.1, 
+      "White Alone": 77.9, 
+      "Hispanic or Latino": 2.7, 
+      "Black Alone": 18.7, 
+      "American Indian and Alaska Native Alone": 0.5
+    }, 
+    "Age": {
+      "Percent Under 18 Years": 25.2, 
+      "Percent 65 and Older": 13.8, 
+      "Percent Under 5 Years": 6.0
+    }, 
+    "Miscellaneous": {
+      "Manufacturers Shipments": 0, 
+      "Foreign Born": 1.6, 
+      "Percent Female": 51.4, 
+      "Language Other than English at Home": 3.5, 
+      "Living in Same House +1 Years": 85.0, 
+      "Mean Travel Time to Work": 26.2, 
+      "Building Permits": 131, 
+      "Veterans": 5922, 
+      "Land Area": 594.44
+    }, 
+    "Sales": {
+      "Retail Sales": 5981, 
+      "Merchant Wholesaler Sales": 0, 
+      "Accommodation and Food Services Sales": 881, 
+      "Retail Sales per Capita": 12003
+    }, 
+    "County": "213.21 in 2021", 
+    "State": "India", 
+    "Income": {
+      "Median Houseold Income": 53682, 
+      "Per Capita Income": 24571, 
+      "Persons Below Poverty Level": 12.1
+    }, 
+    "Education": {
+      "Bachelor's Degree or Higher": 20.9, 
+      "High School or Higher": 85.6
+    }, 
+    "Employment": {
+      "Private Non-farm Establishments": 817, 
+      "Private Non-farm Employment Percent Change": 2.1, 
+      "Firms": {
+        "Total": 4067, 
+        "Hispanic-Owned": 0.7, 
+        "Native Hawaiian and Other Pacific Islander-Owned": 0.0, 
+        "American Indian-Owned": 0.0, 
+        "Black-Owned": 15.2, 
+        "Asian-Owned": 1.3, 
+        "Women-Owned": 31.7
+      }, 
+      "Nonemployer Establishments": 2947, 
+      "Private Non-farm Employment": 10120
+    }, 
+    "Housing": {
+      "Housing Units": 22751, 
+      "Units in Multi-Unit Structures": 8.3, 
+      "Median Value of Owner-Occupied Units": 136200, 
+      "Households": 20071, 
+      "Persons per Household": 2.71, 
+      "Homeownership Rate": 76.8
+    }, 
+    "Population": {
+      "2014 Population": 55395, 
+      "2010 Population": 54571, 
+      "Population per Square Mile": 91.8, 
+      "Population Percent Change": 1.5
+    }
+  }, 
+  {
+    "Ethnicities": {
+      "White Alone, not Hispanic or Latino": 83.0, 
+      "Two or More Races": 1.6, 
+      "Asian Alone": 0.9, 
+      "Native Hawaiian and Other Pacific Islander Alone": 0.1, 
+      "White Alone": 87.1, 
+      "Hispanic or Latino": 4.6, 
+      "Black Alone": 9.6, 
+      "American Indian and Alaska Native Alone": 0.7
+    }, 
+    "Age": {
+      "Percent Under 18 Years": 22.2, 
+      "Percent 65 and Older": 18.7, 
+      "Percent Under 5 Years": 5.6
+    }, 
+    "Miscellaneous": {
+      "Manufacturers Shipments": 14102, 
+      "Foreign Born": 3.6, 
+      "Percent Female": 51.2, 
+      "Language Other than English at Home": 5.5, 
+      "Living in Same House +1 Years": 82.1, 
+      "Mean Travel Time to Work": 25.9, 
+      "Building Permits": 1384, 
+      "Veterans": 19346, 
+      "Land Area": 1589.78
+    }, 
+    "Sales": {
+      "Retail Sales": 29664, 
+      "Merchant Wholesaler Sales": 0, 
+      "Accommodation and Food Services Sales": 4369, 
+      "Retail Sales per Capita": 17166
+    }, 
+    "County": "Bdfs County", 
+    "State": "India", 
+    "Income": {
+      "Median Houseold Income": 50221, 
+      "Per Capita Income": 26766, 
+      "Persons Below Poverty Level": 13.9
+    }, 
+    "Education": {
+      "Bachelor's Degree or Higher": 27.7, 
+      "High School or Higher": 89.1
+    }, 
+    "Employment": {
+      "Private Non-farm Establishments": 4871, 
+      "Private Non-farm Employment Percent Change": 3.7, 
+      "Firms": {
+        "Total": 19035, 
+        "Hispanic-Owned": 1.3, 
+        "Native Hawaiian and Other Pacific Islander-Owned": 0.0, 
+        "American Indian-Owned": 0.4, 
+        "Black-Owned": 2.7, 
+        "Asian-Owned": 1.0, 
+        "Women-Owned": 27.3
+      }, 
+      "Nonemployer Establishments": 16508, 
+      "Private Non-farm Employment": 54988
+    }, 
+    "Housing": {
+      "Housing Units": 107374, 
+      "Units in Multi-Unit Structures": 24.4, 
+      "Median Value of Owner-Occupied Units": 168600, 
+      "Households": 73283, 
+      "Persons per Household": 2.52, 
+      "Homeownership Rate": 72.6
+    }, 
+    "Population": {
+      "2014 Population": 200111, 
+      "2010 Population": 182265, 
+      "Population per Square Mile": 114.6, 
+      "Population Percent Change": 9.8
+    }
+  }, 
+  {
+    "Ethnicities": {
+      "White Alone, not Hispanic or Latino": 46.6, 
+      "Two or More Races": 0.9, 
+      "Asian Alone": 0.5, 
+      "Native Hawaiian and Other Pacific Islander Alone": 0.2, 
+      "White Alone": 50.2, 
+      "Hispanic or Latino": 4.5, 
+      "Black Alone": 47.6, 
+      "American Indian and Alaska Native Alone": 0.6
+    }, 
+    "Age": {
+      "Percent Under 18 Years": 21.2, 
+      "Percent 65 and Older": 16.5, 
+      "Percent Under 5 Years": 5.7
+    }, 
+    "Miscellaneous": {
+      "Manufacturers Shipments": 0, 
+      "Foreign Born": 2.9, 
+      "Percent Female": 46.6, 
+      "Language Other than English at Home": 5.0, 
+      "Living in Same House +1 Years": 84.8, 
+      "Mean Travel Time to Work": 24.6, 
+      "Building Permits": 8, 
+      "Veterans": 2120, 
+      "Land Area": 884.88
+    }, 
+    "Sales": {
+      "Retail Sales": 1883, 
+      "Merchant Wholesaler Sales": 0, 
+      "Accommodation and Food Services Sales": 0, 
+      "Retail Sales per Capita": 6334
+    }, 
+    "County": "bour County", 
+    "State": "India", 
+    "Income": {
+      "Median Houseold Income": 32911, 
+      "Per Capita Income": 16829, 
+      "Persons Below Poverty Level": 26.7
+    }, 
+    "Education": {
+      "Bachelor's Degree or Higher": 13.4, 
+      "High School or Higher": 73.7
+    }, 
+    "Employment": {
+      "Private Non-farm Establishments": 464, 
+      "Private Non-farm Employment Percent Change": -5.6, 
+      "Firms": {
+        "Total": 1667, 
+        "Hispanic-Owned": 0.0, 
+        "Native Hawaiian and Other Pacific Islander-Owned": 0.0, 
+        "American Indian-Owned": 0.0, 
+        "Black-Owned": 0.0, 
+        "Asian-Owned": 0.0, 
+        "Women-Owned": 27.0
+      }, 
+      "Nonemployer Establishments": 1546, 
+      "Private Non-farm Employment": 6611
+    }, 
+    "Housing": {
+      "Housing Units": 11799, 
+      "Units in Multi-Unit Structures": 10.6, 
+      "Median Value of Owner-Occupied Units": 89200, 
+      "Households": 9200, 
+      "Persons per Household": 2.66, 
+      "Homeownership Rate": 67.7
+    }, 
+    "Population": {
+      "2014 Population": 26887, 
+      "2010 Population": 27457, 
+      "Population per Square Mile": 31.0, 
+      "Population Percent Change": -2.1
+    }
+  }, 
+  {
+    "Ethnicities": {
+      "White Alone, not Hispanic or Latino": 74.5, 
+      "Two or More Races": 0.9, 
+      "Asian Alone": 0.2, 
+      "Native Hawaiian and Other Pacific Islander Alone": 0.1, 
+      "White Alone": 76.3, 
+      "Hispanic or Latino": 2.1, 
+      "Black Alone": 22.1, 
+      "American Indian and Alaska Native Alone": 0.4
+    }, 
+    "Age": {
+      "Percent Under 18 Years": 21.0, 
+      "Percent 65 and Older": 14.8, 
+      "Percent Under 5 Years": 5.3
+    }, 
+    "Miscellaneous": {
+      "Manufacturers Shipments": 0, 
+      "Foreign Born": 1.2, 
+      "Percent Female": 45.9, 
+      "Language Other than English at Home": 2.1, 
+      "Living in Same House +1 Years": 86.6, 
+      "Mean Travel Time to Work": 27.6, 
+      "Building Permits": 19, 
+      "Veterans": 1327, 
+      "Land Area": 622.58
+    }, 
+    "Sales": {
+      "Retail Sales": 1247, 
+      "Merchant Wholesaler Sales": 0, 
+      "Accommodation and Food Services Sales": 107, 
+      "Retail Sales per Capita": 5804
+    }, 
+    "County": "bb County", 
+    "State": "India", 
+    "Income": {
+      "Median Houseold Income": 36447, 
+      "Per Capita Income": 17427, 
+      "Persons Below Poverty Level": 18.1
+    }, 
+    "Education": {
+      "Bachelor's Degree or Higher": 12.1, 
+      "High School or Higher": 77.5
+    }, 
+    "Employment": {
+      "Private Non-farm Establishments": 275, 
+      "Private Non-farm Employment Percent Change": 7.5, 
+      "Firms": {
+        "Total": 1385, 
+        "Hispanic-Owned": 0.0, 
+        "Native Hawaiian and Other Pacific Islander-Owned": 0.0, 
+        "American Indian-Owned": 0.0, 
+        "Black-Owned": 14.9, 
+        "Asian-Owned": 0.0, 
+        "Women-Owned": 0.0
+      }, 
+      "Nonemployer Establishments": 1126, 
+      "Private Non-farm Employment": 3145
+    }, 
+    "Housing": {
+      "Housing Units": 8978, 
+      "Units in Multi-Unit Structures": 7.3, 
+      "Median Value of Owner-Occupied Units": 90500, 
+      "Households": 7091, 
+      "Persons per Household": 3.03, 
+      "Homeownership Rate": 79.0
+    }, 
+    "Population": {
+      "2014 Population": 22506, 
+      "2010 Population": 22915, 
+      "Population per Square Mile": 36.8, 
+      "Population Percent Change": -1.8
+    }
+  }, 
+  {
+    "Ethnicities": {
+      "White Alone, not Hispanic or Latino": 87.8, 
+      "Two or More Races": 1.2, 
+      "Asian Alone": 0.3, 
+      "Native Hawaiian and Other Pacific Islander Alone": 0.1, 
+      "White Alone": 96.0, 
+      "Hispanic or Latino": 8.7, 
+      "Black Alone": 1.8, 
+      "American Indian and Alaska Native Alone": 0.6
+    }, 
+    "Age": {
+      "Percent Under 18 Years": 23.6, 
+      "Percent 65 and Older": 17.0, 
+      "Percent Under 5 Years": 6.1
+    }, 
+    "Miscellaneous": {
+      "Manufacturers Shipments": 3415, 
+      "Foreign Born": 4.3, 
+      "Percent Female": 50.5, 
+      "Language Other than English at Home": 7.3, 
+      "Living in Same House +1 Years": 88.7, 
+      "Mean Travel Time to Work": 33.9, 
+      "Building Permits": 3, 
+      "Veterans": 4540, 
+      "Land Area": 644.78
+    }, 
+    "Sales": {
+      "Retail Sales": 3197, 
+      "Merchant Wholesaler Sales": 0, 
+      "Accommodation and Food Services Sales": 209, 
+      "Retail Sales per Capita": 5622
+    }, 
+    "County": "lount County", 
+    "State": "India", 
+    "Income": {
+      "Median Houseold Income": 44145, 
+      "Per Capita Income": 20730, 
+      "Persons Below Poverty Level": 15.8
+    }, 
+    "Education": {
+      "Bachelor's Degree or Higher": 12.1, 
+      "High School or Higher": 77.0
+    }, 
+    "Employment": {
+      "Private Non-farm Establishments": 660, 
+      "Private Non-farm Employment Percent Change": 3.4, 
+      "Firms": {
+        "Total": 4458, 
+        "Hispanic-Owned": 0.0, 
+        "Native Hawaiian and Other Pacific Islander-Owned": 0.0, 
+        "American Indian-Owned": 0.0, 
+        "Black-Owned": 0.0, 
+        "Asian-Owned": 0.0, 
+        "Women-Owned": 23.2
+      }, 
+      "Nonemployer Establishments": 3563, 
+      "Private Non-farm Employment": 6798
+    }, 
+    "Housing": {
+      "Housing Units": 23826, 
+      "Units in Multi-Unit Structures": 4.5, 
+      "Median Value of Owner-Occupied Units": 117100, 
+      "Households": 21108, 
+      "Persons per Household": 2.7, 
+      "Homeownership Rate": 81.0
+    }, 
+    "Population": {
+      "2014 Population": 57719, 
+      "2010 Population": 57322, 
+      "Population per Square Mile": 88.9, 
+      "Population Percent Change": 0.7
+     }
+	},
+  	{
+     "Ethnicities": {
+        "White Alone, not Hispanic or Latino": 75.6, 
+        "Two or More Races": 1.8, 
+        "Asian Alone": 1.1, 
+        "Native Hawaiian and Other Pacific Islander Alone": 0.1, 
+        "White Alone": 77.9, 
+        "Hispanic or Latino": 2.7, 
+        "Black Alone": 18.7, 
+        "American Indian and Alaska Native Alone": 0.5
+      }, 
+      "Age": {
+        "Percent Under 18 Years": 25.2, 
+        "Percent 65 and Older": 13.8, 
+        "Percent Under 5 Years": 6.0
+      }, 
+      "Miscellaneous": {
+        "Manufacturers Shipments": 0, 
+        "Foreign Born": 1.6, 
+        "Percent Female": 51.4, 
+        "Language Other than English at Home": 3.5, 
+        "Living in Same House +1 Years": 85.0, 
+        "Mean Travel Time to Work": 26.2, 
+        "Building Permits": 131, 
+        "Veterans": 5922, 
+        "Land Area": 594.44
+      }, 
+      "Sales": {
+        "Retail Sales": 5981, 
+        "Merchant Wholesaler Sales": 0, 
+        "Accommodation and Food Services Sales": 881, 
+        "Retail Sales per Capita": 12003
+      }, 
+      "County": "637,53 in 2021", 
+      "State": "Canada", 
+      "Income": {
+        "Median Houseold Income": 53682, 
+        "Per Capita Income": 24571, 
+        "Persons Below Poverty Level": 12.1
+      }, 
+      "Education": {
+        "Bachelor's Degree or Higher": 20.9, 
+        "High School or Higher": 85.6
+      }, 
+      "Employment": {
+        "Private Non-farm Establishments": 817, 
+        "Private Non-farm Employment Percent Change": 2.1, 
+        "Firms": {
+          "Total": 4067, 
+          "Hispanic-Owned": 0.7, 
+          "Native Hawaiian and Other Pacific Islander-Owned": 0.0, 
+          "American Indian-Owned": 0.0, 
+          "Black-Owned": 15.2, 
+          "Asian-Owned": 1.3, 
+          "Women-Owned": 31.7
+        }, 
+        "Nonemployer Establishments": 2947, 
+        "Private Non-farm Employment": 10120
+      }, 
+      "Housing": {
+        "Housing Units": 22751, 
+        "Units in Multi-Unit Structures": 8.3, 
+        "Median Value of Owner-Occupied Units": 136200, 
+        "Households": 20071, 
+        "Persons per Household": 2.71, 
+        "Homeownership Rate": 76.8
+      }, 
+      "Population": {
+        "2014 Population": 55395, 
+        "2010 Population": 54571, 
+        "Population per Square Mile": 91.8, 
+        "Population Percent Change": 1.5
+      }
+    }, 
+    {
+      "Ethnicities": {
+        "White Alone, not Hispanic or Latino": 83.0, 
+        "Two or More Races": 1.6, 
+        "Asian Alone": 0.9, 
+        "Native Hawaiian and Other Pacific Islander Alone": 0.1, 
+        "White Alone": 87.1, 
+        "Hispanic or Latino": 4.6, 
+        "Black Alone": 9.6, 
+        "American Indian and Alaska Native Alone": 0.7
+      }, 
+      "Age": {
+        "Percent Under 18 Years": 22.2, 
+        "Percent 65 and Older": 18.7, 
+        "Percent Under 5 Years": 5.6
+      }, 
+      "Miscellaneous": {
+        "Manufacturers Shipments": 14102, 
+        "Foreign Born": 3.6, 
+        "Percent Female": 51.2, 
+        "Language Other than English at Home": 5.5, 
+        "Living in Same House +1 Years": 82.1, 
+        "Mean Travel Time to Work": 25.9, 
+        "Building Permits": 1384, 
+        "Veterans": 19346, 
+        "Land Area": 1589.78
+      }, 
+      "Sales": {
+        "Retail Sales": 29664, 
+        "Merchant Wholesaler Sales": 0, 
+        "Accommodation and Food Services Sales": 4369, 
+        "Retail Sales per Capita": 17166
+      }, 
+      "County": "Bdfs County", 
+      "State": "Canada", 
+      "Income": {
+        "Median Houseold Income": 50221, 
+        "Per Capita Income": 26766, 
+        "Persons Below Poverty Level": 13.9
+      }, 
+      "Education": {
+        "Bachelor's Degree or Higher": 27.7, 
+        "High School or Higher": 89.1
+      }, 
+      "Employment": {
+        "Private Non-farm Establishments": 4871, 
+        "Private Non-farm Employment Percent Change": 3.7, 
+        "Firms": {
+          "Total": 19035, 
+          "Hispanic-Owned": 1.3, 
+          "Native Hawaiian and Other Pacific Islander-Owned": 0.0, 
+          "American Indian-Owned": 0.4, 
+          "Black-Owned": 2.7, 
+          "Asian-Owned": 1.0, 
+          "Women-Owned": 27.3
+        }, 
+        "Nonemployer Establishments": 16508, 
+        "Private Non-farm Employment": 54988
+      }, 
+      "Housing": {
+        "Housing Units": 107374, 
+        "Units in Multi-Unit Structures": 24.4, 
+        "Median Value of Owner-Occupied Units": 168600, 
+        "Households": 73283, 
+        "Persons per Household": 2.52, 
+        "Homeownership Rate": 72.6
+      }, 
+      "Population": {
+        "2014 Population": 200111, 
+        "2010 Population": 182265, 
+        "Population per Square Mile": 114.6, 
+        "Population Percent Change": 9.8
+      }
+    }, 
+    {
+      "Ethnicities": {
+        "White Alone, not Hispanic or Latino": 46.6, 
+        "Two or More Races": 0.9, 
+        "Asian Alone": 0.5, 
+        "Native Hawaiian and Other Pacific Islander Alone": 0.2, 
+        "White Alone": 50.2, 
+        "Hispanic or Latino": 4.5, 
+        "Black Alone": 47.6, 
+        "American Indian and Alaska Native Alone": 0.6
+      }, 
+      "Age": {
+        "Percent Under 18 Years": 21.2, 
+        "Percent 65 and Older": 16.5, 
+        "Percent Under 5 Years": 5.7
+      }, 
+      "Miscellaneous": {
+        "Manufacturers Shipments": 0, 
+        "Foreign Born": 2.9, 
+        "Percent Female": 46.6, 
+        "Language Other than English at Home": 5.0, 
+        "Living in Same House +1 Years": 84.8, 
+        "Mean Travel Time to Work": 24.6, 
+        "Building Permits": 8, 
+        "Veterans": 2120, 
+        "Land Area": 884.88
+      }, 
+      "Sales": {
+        "Retail Sales": 1883, 
+        "Merchant Wholesaler Sales": 0, 
+        "Accommodation and Food Services Sales": 0, 
+        "Retail Sales per Capita": 6334
+      }, 
+      "County": "bour County", 
+      "State": "Canada", 
+      "Income": {
+        "Median Houseold Income": 32911, 
+        "Per Capita Income": 16829, 
+        "Persons Below Poverty Level": 26.7
+      }, 
+      "Education": {
+        "Bachelor's Degree or Higher": 13.4, 
+        "High School or Higher": 73.7
+      }, 
+      "Employment": {
+        "Private Non-farm Establishments": 464, 
+        "Private Non-farm Employment Percent Change": -5.6, 
+        "Firms": {
+          "Total": 1667, 
+          "Hispanic-Owned": 0.0, 
+          "Native Hawaiian and Other Pacific Islander-Owned": 0.0, 
+          "American Indian-Owned": 0.0, 
+          "Black-Owned": 0.0, 
+          "Asian-Owned": 0.0, 
+          "Women-Owned": 27.0
+        }, 
+        "Nonemployer Establishments": 1546, 
+        "Private Non-farm Employment": 6611
+      }, 
+      "Housing": {
+        "Housing Units": 11799, 
+        "Units in Multi-Unit Structures": 10.6, 
+        "Median Value of Owner-Occupied Units": 89200, 
+        "Households": 9200, 
+        "Persons per Household": 2.66, 
+        "Homeownership Rate": 67.7
+      }, 
+      "Population": {
+        "2014 Population": 26887, 
+        "2010 Population": 27457, 
+        "Population per Square Mile": 31.0, 
+        "Population Percent Change": -2.1
+      }
+    }, 
+    {
+      "Ethnicities": {
+        "White Alone, not Hispanic or Latino": 74.5, 
+        "Two or More Races": 0.9, 
+        "Asian Alone": 0.2, 
+        "Native Hawaiian and Other Pacific Islander Alone": 0.1, 
+        "White Alone": 76.3, 
+        "Hispanic or Latino": 2.1, 
+        "Black Alone": 22.1, 
+        "American Indian and Alaska Native Alone": 0.4
+      }, 
+      "Age": {
+        "Percent Under 18 Years": 21.0, 
+        "Percent 65 and Older": 14.8, 
+        "Percent Under 5 Years": 5.3
+      }, 
+      "Miscellaneous": {
+        "Manufacturers Shipments": 0, 
+        "Foreign Born": 1.2, 
+        "Percent Female": 45.9, 
+        "Language Other than English at Home": 2.1, 
+        "Living in Same House +1 Years": 86.6, 
+        "Mean Travel Time to Work": 27.6, 
+        "Building Permits": 19, 
+        "Veterans": 1327, 
+        "Land Area": 622.58
+      }, 
+      "Sales": {
+        "Retail Sales": 1247, 
+        "Merchant Wholesaler Sales": 0, 
+        "Accommodation and Food Services Sales": 107, 
+        "Retail Sales per Capita": 5804
+      }, 
+      "County": "bb County", 
+      "State": "Canada", 
+      "Income": {
+        "Median Houseold Income": 36447, 
+        "Per Capita Income": 17427, 
+        "Persons Below Poverty Level": 18.1
+      }, 
+      "Education": {
+        "Bachelor's Degree or Higher": 12.1, 
+        "High School or Higher": 77.5
+      }, 
+      "Employment": {
+        "Private Non-farm Establishments": 275, 
+        "Private Non-farm Employment Percent Change": 7.5, 
+        "Firms": {
+          "Total": 1385, 
+          "Hispanic-Owned": 0.0, 
+          "Native Hawaiian and Other Pacific Islander-Owned": 0.0, 
+          "American Indian-Owned": 0.0, 
+          "Black-Owned": 14.9, 
+          "Asian-Owned": 0.0, 
+          "Women-Owned": 0.0
+        }, 
+        "Nonemployer Establishments": 1126, 
+        "Private Non-farm Employment": 3145
+      }, 
+      "Housing": {
+        "Housing Units": 8978, 
+        "Units in Multi-Unit Structures": 7.3, 
+        "Median Value of Owner-Occupied Units": 90500, 
+        "Households": 7091, 
+        "Persons per Household": 3.03, 
+        "Homeownership Rate": 79.0
+      }, 
+      "Population": {
+        "2014 Population": 22506, 
+        "2010 Population": 22915, 
+        "Population per Square Mile": 36.8, 
+        "Population Percent Change": -1.8
+      }
+    }, 
+    {
+      "Ethnicities": {
+        "White Alone, not Hispanic or Latino": 87.8, 
+        "Two or More Races": 1.2, 
+        "Asian Alone": 0.3, 
+        "Native Hawaiian and Other Pacific Islander Alone": 0.1, 
+        "White Alone": 96.0, 
+        "Hispanic or Latino": 8.7, 
+        "Black Alone": 1.8, 
+        "American Indian and Alaska Native Alone": 0.6
+      }, 
+      "Age": {
+        "Percent Under 18 Years": 23.6, 
+        "Percent 65 and Older": 17.0, 
+        "Percent Under 5 Years": 6.1
+      }, 
+      "Miscellaneous": {
+        "Manufacturers Shipments": 3415, 
+        "Foreign Born": 4.3, 
+        "Percent Female": 50.5, 
+        "Language Other than English at Home": 7.3, 
+        "Living in Same House +1 Years": 88.7, 
+        "Mean Travel Time to Work": 33.9, 
+        "Building Permits": 3, 
+        "Veterans": 4540, 
+        "Land Area": 644.78
+      }, 
+      "Sales": {
+        "Retail Sales": 3197, 
+        "Merchant Wholesaler Sales": 0, 
+        "Accommodation and Food Services Sales": 209, 
+        "Retail Sales per Capita": 5622
+      }, 
+      "County": "lount County", 
+      "State": "Canada", 
+      "Income": {
+        "Median Houseold Income": 44145, 
+        "Per Capita Income": 20730, 
+        "Persons Below Poverty Level": 15.8
+      }, 
+      "Education": {
+        "Bachelor's Degree or Higher": 12.1, 
+        "High School or Higher": 77.0
+      }, 
+      "Employment": {
+        "Private Non-farm Establishments": 660, 
+        "Private Non-farm Employment Percent Change": 3.4, 
+        "Firms": {
+          "Total": 4458, 
+          "Hispanic-Owned": 0.0, 
+          "Native Hawaiian and Other Pacific Islander-Owned": 0.0, 
+          "American Indian-Owned": 0.0, 
+          "Black-Owned": 0.0, 
+          "Asian-Owned": 0.0, 
+          "Women-Owned": 23.2
+        }, 
+        "Nonemployer Establishments": 3563, 
+        "Private Non-farm Employment": 6798
+      }, 
+      "Housing": {
+        "Housing Units": 23826, 
+        "Units in Multi-Unit Structures": 4.5, 
+        "Median Value of Owner-Occupied Units": 117100, 
+        "Households": 21108, 
+        "Persons per Household": 2.7, 
+        "Homeownership Rate": 81.0
+      }, 
+      "Population": {
+        "2014 Population": 57719, 
+        "2010 Population": 57322, 
+        "Population per Square Mile": 88.9, 
+        "Population Percent Change": 0.7
+       }
+	  },
+	{
+     "Ethnicities": {
+        "White Alone, not Hispanic or Latino": 75.6, 
+        "Two or More Races": 1.8, 
+        "Asian Alone": 1.1, 
+        "Native Hawaiian and Other Pacific Islander Alone": 0.1, 
+        "White Alone": 77.9, 
+        "Hispanic or Latino": 2.7, 
+        "Black Alone": 18.7, 
+        "American Indian and Alaska Native Alone": 0.5
+      }, 
+      "Age": {
+        "Percent Under 18 Years": 25.2, 
+        "Percent 65 and Older": 13.8, 
+        "Percent Under 5 Years": 6.0
+      }, 
+      "Miscellaneous": {
+        "Manufacturers Shipments": 0, 
+        "Foreign Born": 1.6, 
+        "Percent Female": 51.4, 
+        "Language Other than English at Home": 3.5, 
+        "Living in Same House +1 Years": 85.0, 
+        "Mean Travel Time to Work": 26.2, 
+        "Building Permits": 131, 
+        "Veterans": 5922, 
+        "Land Area": 594.44
+      }, 
+      "Sales": {
+        "Retail Sales": 5981, 
+        "Merchant Wholesaler Sales": 0, 
+        "Accommodation and Food Services Sales": 881, 
+        "Retail Sales per Capita": 12003
+      }, 
+      "County": "1,365,37 in 2021", 
+      "State": "Germany", 
+      "Income": {
+        "Median Houseold Income": 53682, 
+        "Per Capita Income": 24571, 
+        "Persons Below Poverty Level": 12.1
+      }, 
+      "Education": {
+        "Bachelor's Degree or Higher": 20.9, 
+        "High School or Higher": 85.6
+      }, 
+      "Employment": {
+        "Private Non-farm Establishments": 817, 
+        "Private Non-farm Employment Percent Change": 2.1, 
+        "Firms": {
+          "Total": 4067, 
+          "Hispanic-Owned": 0.7, 
+          "Native Hawaiian and Other Pacific Islander-Owned": 0.0, 
+          "American Indian-Owned": 0.0, 
+          "Black-Owned": 15.2, 
+          "Asian-Owned": 1.3, 
+          "Women-Owned": 31.7
+        }, 
+        "Nonemployer Establishments": 2947, 
+        "Private Non-farm Employment": 10120
+      }, 
+      "Housing": {
+        "Housing Units": 22751, 
+        "Units in Multi-Unit Structures": 8.3, 
+        "Median Value of Owner-Occupied Units": 136200, 
+        "Households": 20071, 
+        "Persons per Household": 2.71, 
+        "Homeownership Rate": 76.8
+      }, 
+      "Population": {
+        "2014 Population": 55395, 
+        "2010 Population": 54571, 
+        "Population per Square Mile": 91.8, 
+        "Population Percent Change": 1.5
+      }
+    }, 
+    {
+      "Ethnicities": {
+        "White Alone, not Hispanic or Latino": 83.0, 
+        "Two or More Races": 1.6, 
+        "Asian Alone": 0.9, 
+        "Native Hawaiian and Other Pacific Islander Alone": 0.1, 
+        "White Alone": 87.1, 
+        "Hispanic or Latino": 4.6, 
+        "Black Alone": 9.6, 
+        "American Indian and Alaska Native Alone": 0.7
+      }, 
+      "Age": {
+        "Percent Under 18 Years": 22.2, 
+        "Percent 65 and Older": 18.7, 
+        "Percent Under 5 Years": 5.6
+      }, 
+      "Miscellaneous": {
+        "Manufacturers Shipments": 14102, 
+        "Foreign Born": 3.6, 
+        "Percent Female": 51.2, 
+        "Language Other than English at Home": 5.5, 
+        "Living in Same House +1 Years": 82.1, 
+        "Mean Travel Time to Work": 25.9, 
+        "Building Permits": 1384, 
+        "Veterans": 19346, 
+        "Land Area": 1589.78
+      }, 
+      "Sales": {
+        "Retail Sales": 29664, 
+        "Merchant Wholesaler Sales": 0, 
+        "Accommodation and Food Services Sales": 4369, 
+        "Retail Sales per Capita": 17166
+      }, 
+      "County": "Bdfs County", 
+      "State": "Germany", 
+      "Income": {
+        "Median Houseold Income": 50221, 
+        "Per Capita Income": 26766, 
+        "Persons Below Poverty Level": 13.9
+      }, 
+      "Education": {
+        "Bachelor's Degree or Higher": 27.7, 
+        "High School or Higher": 89.1
+      }, 
+      "Employment": {
+        "Private Non-farm Establishments": 4871, 
+        "Private Non-farm Employment Percent Change": 3.7, 
+        "Firms": {
+          "Total": 19035, 
+          "Hispanic-Owned": 1.3, 
+          "Native Hawaiian and Other Pacific Islander-Owned": 0.0, 
+          "American Indian-Owned": 0.4, 
+          "Black-Owned": 2.7, 
+          "Asian-Owned": 1.0, 
+          "Women-Owned": 27.3
+        }, 
+        "Nonemployer Establishments": 16508, 
+        "Private Non-farm Employment": 54988
+      }, 
+      "Housing": {
+        "Housing Units": 107374, 
+        "Units in Multi-Unit Structures": 24.4, 
+        "Median Value of Owner-Occupied Units": 168600, 
+        "Households": 73283, 
+        "Persons per Household": 2.52, 
+        "Homeownership Rate": 72.6
+      }, 
+      "Population": {
+        "2014 Population": 200111, 
+        "2010 Population": 182265, 
+        "Population per Square Mile": 114.6, 
+        "Population Percent Change": 9.8
+      }
+    }, 
+    {
+      "Ethnicities": {
+        "White Alone, not Hispanic or Latino": 46.6, 
+        "Two or More Races": 0.9, 
+        "Asian Alone": 0.5, 
+        "Native Hawaiian and Other Pacific Islander Alone": 0.2, 
+        "White Alone": 50.2, 
+        "Hispanic or Latino": 4.5, 
+        "Black Alone": 47.6, 
+        "American Indian and Alaska Native Alone": 0.6
+      }, 
+      "Age": {
+        "Percent Under 18 Years": 21.2, 
+        "Percent 65 and Older": 16.5, 
+        "Percent Under 5 Years": 5.7
+      }, 
+      "Miscellaneous": {
+        "Manufacturers Shipments": 0, 
+        "Foreign Born": 2.9, 
+        "Percent Female": 46.6, 
+        "Language Other than English at Home": 5.0, 
+        "Living in Same House +1 Years": 84.8, 
+        "Mean Travel Time to Work": 24.6, 
+        "Building Permits": 8, 
+        "Veterans": 2120, 
+        "Land Area": 884.88
+      }, 
+      "Sales": {
+        "Retail Sales": 1883, 
+        "Merchant Wholesaler Sales": 0, 
+        "Accommodation and Food Services Sales": 0, 
+        "Retail Sales per Capita": 6334
+      }, 
+      "County": "bour County", 
+      "State": "Germany", 
+      "Income": {
+        "Median Houseold Income": 32911, 
+        "Per Capita Income": 16829, 
+        "Persons Below Poverty Level": 26.7
+      }, 
+      "Education": {
+        "Bachelor's Degree or Higher": 13.4, 
+        "High School or Higher": 73.7
+      }, 
+      "Employment": {
+        "Private Non-farm Establishments": 464, 
+        "Private Non-farm Employment Percent Change": -5.6, 
+        "Firms": {
+          "Total": 1667, 
+          "Hispanic-Owned": 0.0, 
+          "Native Hawaiian and Other Pacific Islander-Owned": 0.0, 
+          "American Indian-Owned": 0.0, 
+          "Black-Owned": 0.0, 
+          "Asian-Owned": 0.0, 
+          "Women-Owned": 27.0
+        }, 
+        "Nonemployer Establishments": 1546, 
+        "Private Non-farm Employment": 6611
+      }, 
+      "Housing": {
+        "Housing Units": 11799, 
+        "Units in Multi-Unit Structures": 10.6, 
+        "Median Value of Owner-Occupied Units": 89200, 
+        "Households": 9200, 
+        "Persons per Household": 2.66, 
+        "Homeownership Rate": 67.7
+      }, 
+      "Population": {
+        "2014 Population": 26887, 
+        "2010 Population": 27457, 
+        "Population per Square Mile": 31.0, 
+        "Population Percent Change": -2.1
+      }
+    }, 
+    {
+      "Ethnicities": {
+        "White Alone, not Hispanic or Latino": 74.5, 
+        "Two or More Races": 0.9, 
+        "Asian Alone": 0.2, 
+        "Native Hawaiian and Other Pacific Islander Alone": 0.1, 
+        "White Alone": 76.3, 
+        "Hispanic or Latino": 2.1, 
+        "Black Alone": 22.1, 
+        "American Indian and Alaska Native Alone": 0.4
+      }, 
+      "Age": {
+        "Percent Under 18 Years": 21.0, 
+        "Percent 65 and Older": 14.8, 
+        "Percent Under 5 Years": 5.3
+      }, 
+      "Miscellaneous": {
+        "Manufacturers Shipments": 0, 
+        "Foreign Born": 1.2, 
+        "Percent Female": 45.9, 
+        "Language Other than English at Home": 2.1, 
+        "Living in Same House +1 Years": 86.6, 
+        "Mean Travel Time to Work": 27.6, 
+        "Building Permits": 19, 
+        "Veterans": 1327, 
+        "Land Area": 622.58
+      }, 
+      "Sales": {
+        "Retail Sales": 1247, 
+        "Merchant Wholesaler Sales": 0, 
+        "Accommodation and Food Services Sales": 107, 
+        "Retail Sales per Capita": 5804
+      }, 
+      "County": "bb County", 
+      "State": "Germany", 
+      "Income": {
+        "Median Houseold Income": 36447, 
+        "Per Capita Income": 17427, 
+        "Persons Below Poverty Level": 18.1
+      }, 
+      "Education": {
+        "Bachelor's Degree or Higher": 12.1, 
+        "High School or Higher": 77.5
+      }, 
+      "Employment": {
+        "Private Non-farm Establishments": 275, 
+        "Private Non-farm Employment Percent Change": 7.5, 
+        "Firms": {
+          "Total": 1385, 
+          "Hispanic-Owned": 0.0, 
+          "Native Hawaiian and Other Pacific Islander-Owned": 0.0, 
+          "American Indian-Owned": 0.0, 
+          "Black-Owned": 14.9, 
+          "Asian-Owned": 0.0, 
+          "Women-Owned": 0.0
+        }, 
+        "Nonemployer Establishments": 1126, 
+        "Private Non-farm Employment": 3145
+      }, 
+      "Housing": {
+        "Housing Units": 8978, 
+        "Units in Multi-Unit Structures": 7.3, 
+        "Median Value of Owner-Occupied Units": 90500, 
+        "Households": 7091, 
+        "Persons per Household": 3.03, 
+        "Homeownership Rate": 79.0
+      }, 
+      "Population": {
+        "2014 Population": 22506, 
+        "2010 Population": 22915, 
+        "Population per Square Mile": 36.8, 
+        "Population Percent Change": -1.8
+      }
+    }, 
+    {
+      "Ethnicities": {
+        "White Alone, not Hispanic or Latino": 87.8, 
+        "Two or More Races": 1.2, 
+        "Asian Alone": 0.3, 
+        "Native Hawaiian and Other Pacific Islander Alone": 0.1, 
+        "White Alone": 96.0, 
+        "Hispanic or Latino": 8.7, 
+        "Black Alone": 1.8, 
+        "American Indian and Alaska Native Alone": 0.6
+      }, 
+      "Age": {
+        "Percent Under 18 Years": 23.6, 
+        "Percent 65 and Older": 17.0, 
+        "Percent Under 5 Years": 6.1
+      }, 
+      "Miscellaneous": {
+        "Manufacturers Shipments": 3415, 
+        "Foreign Born": 4.3, 
+        "Percent Female": 50.5, 
+        "Language Other than English at Home": 7.3, 
+        "Living in Same House +1 Years": 88.7, 
+        "Mean Travel Time to Work": 33.9, 
+        "Building Permits": 3, 
+        "Veterans": 4540, 
+        "Land Area": 644.78
+      }, 
+      "Sales": {
+        "Retail Sales": 3197, 
+        "Merchant Wholesaler Sales": 0, 
+        "Accommodation and Food Services Sales": 209, 
+        "Retail Sales per Capita": 5622
+      }, 
+      "County": "lount County", 
+      "State": "Germany", 
+      "Income": {
+        "Median Houseold Income": 44145, 
+        "Per Capita Income": 20730, 
+        "Persons Below Poverty Level": 15.8
+      }, 
+      "Education": {
+        "Bachelor's Degree or Higher": 12.1, 
+        "High School or Higher": 77.0
+      }, 
+      "Employment": {
+        "Private Non-farm Establishments": 660, 
+        "Private Non-farm Employment Percent Change": 3.4, 
+        "Firms": {
+          "Total": 4458, 
+          "Hispanic-Owned": 0.0, 
+          "Native Hawaiian and Other Pacific Islander-Owned": 0.0, 
+          "American Indian-Owned": 0.0, 
+          "Black-Owned": 0.0, 
+          "Asian-Owned": 0.0, 
+          "Women-Owned": 23.2
+        }, 
+        "Nonemployer Establishments": 3563, 
+        "Private Non-farm Employment": 6798
+      }, 
+      "Housing": {
+        "Housing Units": 23826, 
+        "Units in Multi-Unit Structures": 4.5, 
+        "Median Value of Owner-Occupied Units": 117100, 
+        "Households": 21108, 
+        "Persons per Household": 2.7, 
+        "Homeownership Rate": 81.0
+      }, 
+      "Population": {
+        "2014 Population": 57719, 
+        "2010 Population": 57322, 
+        "Population per Square Mile": 88.9, 
+        "Population Percent Change": 0.7
+       }
+    }
+
+]
