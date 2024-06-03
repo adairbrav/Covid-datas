@@ -30,8 +30,8 @@ def render_fact():
     
 def get_state_options():
     """Return the html code for the drop down menu.  Each option is a state abbreviation from the demographic data."""
-    with open('demographics.json') as demographics_data:
-        counties = json.load(demographics_data)
+    with open('covid.json') as covid_data:
+        counties = json.load(covid_data)
     states=[]
     for c in counties:
         if c["State"] not in states:
@@ -43,8 +43,8 @@ def get_state_options():
 
 def county_most_under_18(state):
     """Return the name of a county in the given state with the highest percent of under 18 year olds."""
-    with open('demographics.json') as demographics_data:
-        counties = json.load(demographics_data)
+    with open('covid.json') as covid_data:
+        counties = json.load(covid_data)
     highest=0
     county = ""
     for c in counties:
