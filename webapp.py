@@ -16,44 +16,41 @@ def render_Graph():
     
 @app.route('/About')
 def render_About():
-    states = get_state_options()
-    #print(states)
-    return render_template('About.html', state_options=states)    
+    Country = get_Countrys_options()
+    #print(Country)
+    return render_template('About.html', Country_options=Country)    
 
 @app.route('/showFact')
 def render_fact():
-    states = get_state_options()
-    state = request.args.get('state')
-    county = county_most_under_18(state)
-    fact = "In " + state + ", the cases in this country is " + county + "."
-    return render_template('About.html', state_options=states, funFact=fact)
+    Counts = get_Countrys_options()
+    Country = request.args.get('Country')
+    county = cases(Country)
+    fact = "In " + Country + ", the cases in this country is " +str(county) + "."
+    return render_template('About.html', Country_options=Counts, funFact=fact)
     
-def get_state_options():
+def get_Countrys_options():
     """Return the html code for the drop down menu.  Each option is a state abbreviation from the demographic data."""
     with open('covid.json') as covid_data:
         counties = json.load(covid_data)
-    states=[]
+    Countrys=[]
     for c in counties:
-        if c["State"] not in states:
-            states.append(c["State"])
+        if c["Location"] ["Country"] not in Countrys:
+            Countrys.append(c["Location"] ["Country"])
     options=""
-    for s in states:
+    for s in Countrys:
         options += Markup("<option value=\"" + s + "\">" + s + "</option>") #Use Markup so <, >, " are not escaped lt, gt, etc.
     return options
 
-def county_most_under_18(state):
+def cases(Country):
     """Return the name of a county in the given state with the highest percent of under 18 year olds."""
     with open('covid.json') as covid_data:
         counties = json.load(covid_data)
-    highest=0
-    county = ""
+    total=0
     for c in counties:
-        if c["State"] == state:
-            if c["Age"]["Percent Under 18 Years"] > highest:
-                highest = c["Age"]["Percent Under 18 Years"]
-                county = c["County"]
-    return county
-
+        if c["Location"] ["Country"] == Country:
+            total = total+ c ["Data"] ["Cases"]
+    return total
+    
 
 
 def is_localhost():
